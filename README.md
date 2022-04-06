@@ -1,5 +1,5 @@
 
-## Gamers Hub
+# Gamers Hub
 
 ## サイト概要
 ### サイトテーマ
